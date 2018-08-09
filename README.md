@@ -1,5 +1,5 @@
 ![](https://i.imgur.com/g6Bj8Ac.gif)
-# 软件类型
+# 软件类型(手机软件待完善，更新与201801）
 ## 电脑window
 ### 设计类
 * Dialux
