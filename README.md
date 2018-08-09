@@ -1,1 +1,1 @@
-[](img/1.gif)
+[](https://i.imgur.com/g6Bj8Ac.gif)
